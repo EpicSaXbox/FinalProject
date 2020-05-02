@@ -1,0 +1,51 @@
+Name: Dalton Gobel
+Date: 5/2/20
+
+Project: Not Alone
+Group's repository:  https://github.com/joeads4/FinalProject
+
+
+
+What is something you learned by reviewing this group's project?
+
+ I learned that Unity is a good engine to use. I like the things that you can do in comparison to godot.
+
+In what ways does this game reflect the theme?
+
+ The game is about forgetting reality and showing pets love. It is about forgetting reality in these tough times.
+
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+ I would like to apply a scene in which you  can use in-game currency to buy things. I thought it was implemented very well.
+
+
+What suggestions would you have for this group to improve the game?
+
+ Just might need more juicy features to capture the player's attention. This could be the pet's hunger or something else to do.
+
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+ I'm not familiar with the script in Unity. A lot of it was confusing to me in general.
+
+
+Is it clear that every group member participated?
+
+ I'm not certain if Jocelyn did this alone. If it was just Jocelyn, it is clear that it was all done by them.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+
+ I thought the README was very descriptive.
+
+Pay a compliment to the group based on the quality of the game.
+
+This is the most impressive game I've reviewed seen by far. The short time span of 48 hours given to create the game and the clear objective of the game are quite impressive. I also think it looks very pleasing to the eye.
+
+How many of your points would you allocate to this project?
+
+5/5
